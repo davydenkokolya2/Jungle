@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Jungle</string>
+    <string name="rules">Mary Brown is a scholar and seeker of ancient tombs!\n\n Follow her through three challenges in the dense jungle and make your way to the Balloon to save yourself and multiply the treasure you find!\n\nHurry and get them before the balloon flies away, or you\'ll lose everything!S</string>
+    <string name="statistics">1. YOU............................................................\n2. player 2............................................\n3. player 3..............................................\n4. player 4..............................................\n5. player 5..............................................\n6. player 6..............................................\n7. player 7................................................\n8. player 8..............................................\n9. player 9..............................................\n10. player 10............................................</string>
+    <string name="statistics_">STATISTICS</string>
+    <string name="_0">0</string>
+    <string name="defeat">DEFEAT</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="settings">SETTINGS</string>
+    <string name="play">PLAY</string>
+    <string name="music">MUSIC</string>
+    <string name="sound">SOUND</string>
+    <string name="scores">230\n220\n214\n210\n200\n198\n186\n173\n162</string>
+    <string name="_250">250</string>
+    <string name="win">WIN!</string>
 </resources>
